@@ -1,3 +1,4 @@
+
 # AegisSphere AI — Disaster Intelligence & Early Warning Platform
 
 AegisSphere AI is an advanced, production-scale disaster prediction and early-warning intelligence platform. The system is designed to consume multimodal input streams—including Sentinel-1 Synthetic Aperture Radar (SAR), Sentinel-2 multispectral imagery, Digital Elevation Models (DEM), and live news bulletins—to predict flash flooding, wildfires, and landslides in real-time, alongside DeBERTa/DistilBERT news NLP classification.
@@ -108,3 +109,6 @@ INFO:     Uvicorn running on http://127.0.0.1:8000
    - **Username**: `aegis_admin`
    - **Password**: `aegis_omega_password`
 3. Request forecasts, test news classification headers, and monitor the live alert feed.
+=======
+# AI-Disaster-Alert-System
+
