@@ -1,0 +1,16 @@
+{
+    "NASA_SRTM": "https://search.earthdata.nasa.gov/search?q=SRTM&gdf=PDF",
+    "CGIAR_SRTM": "https://srtm.csi.cgiar.org/srtmdata/",
+    "Copernicus_ERA5": "https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels",
+    "EMDAT_Disaster": "https://public.emdat.be/data",
+    "NOAA_Storm_Events": "https://www.ncei.noaa.gov/pub/data/swdi/stormevent",
+    "HuggingFace_Disaster": "https://huggingface.co/datasets?search=disaster",
+    "USGS_Earthquake": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php",
+    "NOAA_Hurricane": "https://www.ncei.noaa.gov/products/international-best-track-archive",
+    "MODIS": "https://modis.gsfc.nasa.gov/data/dataprod/",
+    "GeoFabrik": "https://download.geofabrik.de/",
+    "GoogleDrive_Dataset_1": "https://drive.google.com/drive/folders/17cUNXoOAQPaAzYXByoNK9d29jpg2O0Y7",
+    "GoogleDrive_Dataset_2": "https://drive.google.com/drive/folders/1DnZ6rw9JnlDl1bbObyYhDgou5a7gNnvj",
+    "Google_Earth_Engine_S1": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD",
+    "AWS_Sentinel_1": "https://registry.opendata.aws/sentinel-1/"
+}
